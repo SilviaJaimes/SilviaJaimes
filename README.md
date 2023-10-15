@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SilviaJaimes&label=Profile%20views&color=0e75b6&style=flat" alt="jean0405" /> </p>
 <div id="header" align="center">
 <h1 align="center"> Hello! I'm Silvia Jaimes 👋</h1> 
 Welcome to my GitHub profile. <br>
