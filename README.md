@@ -12,4 +12,4 @@ I'm a 18 years old, from Colombia and I'm a Full-Stack developer with focus on .
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilviaJaimes&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silviajaimes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_silvia_jaimes) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silviajaimes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_silviajaimesc) 
